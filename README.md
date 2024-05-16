@@ -30,4 +30,5 @@ The X-Ray Fracture Detection Project is a deep learning project aimed at automat
 (https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays/data)
 ### Contributors: 
 Fayez Ali
+
 Jazib Ali
